@@ -1,5 +1,5 @@
 .SingleDatePickerInput {
-    background: transparent;
+    background: transparent !important;
 }
 
 .SingleDatePickerInput__withBorder {
@@ -8,13 +8,13 @@
 
 .DateInput {
     background: transparent;
-    width: 100%;
+    width: 100% !important;
 }
 
 .DateInput_input {
-    background: transparent;
+    background: transparent !important;
 }
 
 .DateInput_input__focused {
-    background: transparent;
+    background: transparent !important;
 }
