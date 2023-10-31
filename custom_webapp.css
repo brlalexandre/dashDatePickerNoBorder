@@ -1,5 +1,9 @@
+.SingleDatePicker {
+    width: 100% !important;
+}
 .SingleDatePickerInput {
     background: transparent !important;
+    width: 100% !important;
 }
 
 .SingleDatePickerInput__withBorder {
